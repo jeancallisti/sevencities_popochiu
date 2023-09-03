@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://da6f6cicm8gbk"]
+
+[ext_resource type="Script" path="res://popochiu/characters/indy_indyclothes/character_indy_indyclothes_state.gd" id="1_upwkm"]
+
+[resource]
+resource_name = "Indy_indyclothes"
+script = ExtResource("1_upwkm")
+script_name = "Indy_indyclothes"
+scene = "res://popochiu/characters/indy_indyclothes/character_indy_indyclothes.tscn"
