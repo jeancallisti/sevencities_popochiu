@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Seven Cities (popochiu)"
-run/main_scene="res://popochiu/rooms/00_start_cutscene/room_00_start_cutscene.tscn"
+run/main_scene="res://popochiu/rooms/r00_tibet_start_cutscene/room_r00_tibet_start_cutscene.tscn"
 config/features=PackedStringArray("4.1", "Forward Plus")
 config/icon="res://icon.svg"
 

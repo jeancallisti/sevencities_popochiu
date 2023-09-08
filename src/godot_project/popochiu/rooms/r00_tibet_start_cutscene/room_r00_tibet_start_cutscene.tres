@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://cdtev5i6utmke"]
+
+[ext_resource type="Script" path="res://popochiu/rooms/r00_tibet_start_cutscene/room_r00_tibet_start_cutscene_state.gd" id="1_o7fin"]
+
+[resource]
+resource_name = "R00_tibet_startCutscene"
+script = ExtResource("1_o7fin")
+script_name = "R00_tibet_startCutscene"
+scene = "res://popochiu/rooms/r00_tibet_start_cutscene/room_r00_tibet_start_cutscene.tscn"
+visited = false
+visited_first_time = false
+visited_times = 0
